@@ -1,5 +1,5 @@
 
 tasks/human_pose/test.mkv
 tasks/human_pose/street_walk_4.mp4
-tasks/human_pose/outputs/*
+tasks/human_pose/pretrained/*
 tasks/human_pose/__pycache__/*
