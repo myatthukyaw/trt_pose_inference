@@ -32,6 +32,8 @@ def parse_arguments():
 class Camera():
     def start(self, args):
         self.args = args
+        if not os.path.exists('outputs'):
+            os.makedirs('outputs')
         self.output_path = os.path.join('outputs','output_of'+args.video_input)
         #inference type 
         if self.args.mode == 'video':
