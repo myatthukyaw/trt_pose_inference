@@ -13,7 +13,7 @@ To get started with trt_pose, follow these steps.
 
 ### Step 1 - Install trt_pose and torch2trt
 
-Please follow instructions on official Nvidia's [trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose) 's repo to requirements and [torch2trt](http://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter.
+Please follow instructions on official Nvidia's [trt_pose](https://github.com/NVIDIA-AI-IOT/trt_pose) and [torch2trt](http://github.com/NVIDIA-AI-IOT/torch2trt) - An easy to use PyTorch to TensorRT converter.
 
 > Move the pretrained models into the [tasks/human_pose/pretrained](tasks/human_pose/pretrained) directory.
     
